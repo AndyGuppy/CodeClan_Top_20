@@ -1,0 +1,57 @@
+
+body{
+    background-color: gray;
+}
+
+#header{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+#audio{
+    background: ivory;
+    text-align: center;
+}
+
+#page{
+    color: white;
+    padding: 20px;
+}
+
+.songs-container {
+    margin: auto;
+    background: black;
+    border-color: Ivory;
+    border-width: 3px;
+    border-radius: 25px;
+    border-style: solid;
+    padding: 30px;
+    color: ivory;
+}
+.song-detail {
+    margin: auto;
+    background: black;
+    border-color: gray;
+    border-width: 3px;
+    border-radius: 25px;
+    border-style: solid;
+    padding: 15px;
+    color: ivory;
+}
+.poster {
+    width: 150px;
+    height: 190px;
+    background: black;
+    float: left;
+    padding: 10px;
+}
+.info {
+    margin-left: 200px;
+    height: 200px;
+    background: ivory;
+    border-radius: 15px;
+    border-color: red;
+    padding: 10px;
+    color: black;
+  }
